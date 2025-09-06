@@ -1,0 +1,401 @@
+stringfog key : UTF-8
+stringfog impl: com.github.megatronking.stringfog.xor.StringFogImpl
+
+[com.rv.wallmob.DebugActivity]
+error -> MCY0Qko=
+No error message available. -> GztmSEonOzQNVTAnNUxfMHQnW1k8OCdPVDB6
+ Crashed -> dRc0TEs9MSI=
+
+[com.rv.wallmob.DebugActivity$1]
+StringIndexOutOfBoundsException -> BiA0RFYyHShJXS0bM1l3MxYpWFYxJwNVWzAkMkRXOw==
+Invalid string operation
+ -> HDowTFQ8MGZeTCc9KEoYOiQjX1khPSlDMg==
+IndexOutOfBoundsException -> HDoiSEAaITJiXhc7M0NcJhE+Tl0lIC9CVg==
+Invalid list operation
+ -> HDowTFQ8MGZBUSYgZkJIMCYnWVE6Okw=
+ArithmeticException -> FCYvWVA4MTJEWxAsJUhIIT0pQw==
+Invalid arithmetical operation
+ -> HDowTFQ8MGZMSjwgLkBdIT0lTFR1OzZISjQgL0JWXw==
+NumberFormatException -> GyErT10nEilfVTQgA1VbMCQyRFc7
+Invalid toNumber block operation
+ -> HDowTFQ8MGZZVxshK09dJ3QkQVc2P2ZCSDAmJ1lROjpM
+ActivityNotFoundException -> FDcyRE48ID9jVyESKVhWMRE+Tl0lIC9CVg==
+Invalid intent operation
+ -> HDowTFQ8MGZEViExKFkYOiQjX1khPSlDMg==
+
+[com.rv.wallmob.SketchApplication$1]
+error -> MCY0Qko=
+
+[com.rv.wallmob.SketchLogger]
+Logger already running -> GTshSl0ndCdBSjA1IlQYJyEoQ1E7Mw==
+Stopping logger by user request. -> BiApXUg8OiENVDozIUhKdTY/DU0mMTQNSjAlM0hLIXo=
+Logger not running -> GTshSl0ndChCTHUmM0NWPDoh
+pro.sketchware.ACTION_NEW_DEBUG_LOG -> JSYpA0s+MTJOUCI1NEgWFBcSZHcbCwhobwoQA29tEgsKYn8=
+log -> OTsh
+packageName -> JTUlRlkyMQhMVTA=
+
+[com.rv.wallmob.SketchLogger$1]
+logcat -c -> OTshTlkhdGtO
+logcat -> OTshTlkh
+Logger got killed. Restarting. -> GTshSl0ndCFCTHU/L0FUMDBoDWowJzJMSiE9KEoW
+Logger stopped. -> GTshSl0ndDVZVyUkI0kW
+
+[com.rv.wallmob.SketchwareUtil]
+com.android.camera.action.CROP -> NjsrA1k7MDRCUTF6JUxVMCYnA1k2IC9CVnsXFGJo
+image/* -> PDknSl16fg==
+crop -> NiYpXQ==
+true -> ISYzSA==
+aspectX -> NCc2SFshDA==
+aspectY -> NCc2SFshDQ==
+outputX -> OiEyXU0hDA==
+outputY -> OiEyXU0hDQ==
+return-data -> JzEyWEo7eSJMTDQ=
+Your device doesn't support the crop action! -> DDszXxgxMTBEWzB0IkJdJjphWRgmITZdVycgZllQMHQlX1cldCdOTDw7KAw=
+connectivity -> NjsoQ102IC9bUSEt
+input_method -> PDo2WEwKOSNZUDow
+input_method -> PDo2WEwKOSNZUDow
+getMaterialColor -> MjEyYFkhMTREWTkXKUFXJw==
+
+[com.rv.wallmob.FileUtil]
+/ -> eg==
+/ -> eg==
+: -> bw==
+primary -> JSYvQFknLQ==
+/ -> eg==
+: -> bw==
+raw -> JzUx
+msf -> OCcg
+_id=? -> Cj0iEAc=
+content://downloads/public_downloads -> NjsoWV07IHwCFzE7MUNUOjUiXhclISRBUTYLIkJPOzgpTFwm
+: -> bw==
+image -> PDknSl0=
+video -> Iz0iSFc=
+audio -> NCEiRFc=
+_id=? -> Cj0iEAc=
+content -> NjsoWV07IA==
+file -> Mz0qSA==
+UTF-8 -> AAAAAAA=
+_data -> CjAnWVk=
+_data -> CjAnWVk=
+com.android.externalstorage.documents -> NjsrA1k7MDRCUTF6I1VMMCYoTFQmIClfWTIxaElXNiErSFYhJw==
+com.android.providers.downloads.documents -> NjsrA1k7MDRCUTF6Nl9XIz0iSEomeiJCTzs4KUxcJnoiQlsgOSNDTCY=
+com.android.providers.media.documents -> NjsrA1k7MDRCUTF6Nl9XIz0iSEomeitIXDw1aElXNiErSFYhJw==
+Orientation -> GiYvSFYhNTJEVzs=
+yyyyMMdd_HHmmss -> LC0/VHUYMCJycB05K15L
+.jpg -> ez42Sg==
+
+[com.rv.wallmob.LoginBinding]
+Required views are missing -> BzE3WFEnMSINTjwxMV4YNCYjDVU8JzVEVjI=
+
+[com.rv.wallmob.SignupBinding]
+Required views are missing -> BzE3WFEnMSINTjwxMV4YNCYjDVU8JzVEVjI=
+
+[com.rv.wallmob.ForgotPasswordBinding]
+Required views are missing -> BzE3WFEnMSINTjwxMV4YNCYjDVU8JzVEVjI=
+
+[com.rv.wallmob.AccountBinding]
+Required views are missing -> BzE3WFEnMSINTjwxMV4YNCYjDVU8JzVEVjI=
+
+[com.rv.wallmob.ErrorStateBinding]
+Required views are missing -> BzE3WFEnMSINTjwxMV4YNCYjDVU8JzVEVjI=
+
+[com.rv.wallmob.WallpaperDetailsActivity]
+wallpaper -> IjUqQUg0JCNf
+Wallpaper data not available -> AjUqQUg0JCNfGDE1MkwYOzsyDVkjNS9BWTc4Iw==
+Source:  -> BjszX1swbmY=
+By:  -> Fy18DQ==
+Preparing image for editing... -> BSYjXVknPShKGDw5J0pddTIpXxgwMC9ZUTszaAMW
+edited_uri -> MDAvWV0xCzNfUQ==
+Failed to apply changes:  -> EzUvQV0xdDJCGDQkNkFBdTcuTFYyMTUXGA==
+android.permission.SET_WALLPAPER -> NDoiX1c8MGhdXSc5L15LPDsoA2sQABl6eRkYFmxoEAY=
+android.permission.SET_WALLPAPER -> NDoiX1c8MGhdXSc5L15LPDsoA2sQABl6eRkYFmxoEAY=
+Wallpaper permission denied -> AjUqQUg0JCNfGCUxNEBRJicvQlZ1MCNDUTAw
+Setting wallpaper... -> BjEyWVE7M2ZaWTk4NkxIMCZoAxY=
+Preparing download... -> BSYjXVknPShKGDE7MUNUOjUiAxZ7
+Downloading wallpaper... -> ETsxQ1Q6NSJEVjJ0MUxUOSQnXV0nemgD
+Preparing wallpaper for sharing... -> BSYjXVknPShKGCI1KkFINCQjXxgzOzQNSz01NERWMnpoAw==
+https://tinyurl.com/api-create.php?url= -> PSAyXUtve2lZUTstM19UezcpQBc0JC8AWycxJ1ldeyQuXQcgJioQ
+UTF-8 -> AAAAAAA=
+GET -> EhES
+wallpaper -> IjUqQUg0JCNf
+Favorite -> EzUwQko8ICM=
+Removed from favorites -> BzErQk4wMGZLSjo5ZktZIzs0REwwJw==
+Favorited -> EzUwQko8ICNJ
+Added to favorites -> FDAiSFx1ICkNXjQiKV9RITE1
+images -> PDknSl0m
+Failed to create cache directory -> EzUvQV0xdDJCGDYmI0xMMHQlTFs9MWZJUScxJVlXJy0=
+edit_temp_ -> MDAvWWchMStdZw==
+.png -> eyQoSg==
+Failed to compress bitmap -> EzUvQV0xdDJCGDY7K11KMCc1DVo8ICtMSA==
+com.rv.wallmob.fileprovider -> NjsrA0ojejFMVDk5KU8WMz0qSEgnOzBEXDAm
+Failed to load bitmap from URI -> EzUvQV0xdDJCGDk7J0kYNz0yQFkldCBfVzh0E39x
+wallpaper_ -> IjUqQUg0JCNfZw==
+.jpg -> ez42Sg==
+android.intent.action.MEDIA_SCANNER_SCAN_FILE -> NDoiX1c8MGhEViExKFkWNDcyRFc7egtofBwVGX57FBoIaGoKBwVsdgoSD2F9
+Failed to save edited wallpaper -> EzUvQV0xdDJCGCY1MEgYMDAvWV0xdDFMVDkkJ11dJw==
+Failed to load edited bitmap -> EzUvQV0xdDJCGDk7J0kYMDAvWV0xdCRETDg1Ng==
+android.intent.action.MEDIA_SCANNER_SCAN_FILE -> NDoiX1c8MGhEViExKFkWNDcyRFc7egtofBwVGX57FBoIaGoKBwVsdgoSD2F9
+Failed to save wallpaper -> EzUvQV0xdDJCGCY1MEgYIjUqQUg0JCNf
+share -> JjwnX10=
+Cannot create share directory -> FjUoQ1chdCVfXTQgIw1LPTU0SBgxPTRIWyE7NFQ=
+wallpaper_share_ -> IjUqQUg0JCNfZyY8J19dCg==
+.jpg -> ez42Sg==
+Failed to compress image -> EzUvQV0xdDJCGDY7K11KMCc1DVE4NSFI
+com.rv.wallmob.fileprovider -> NjsrA0ojejFMVDk5KU8WMz0qSEgnOzBEXDAm
+Check out this wallpaper:  -> FjwjTlN1OzNZGCE8L14YIjUqQUg0JCNfAnU=
+images -> PDknSl0m
+share -> JjwnX10=
+share -> JjwnX10=
+Failed to prepare image for editing -> EzUvQV0xdDJCGCUmI11ZJzFmRFU0MyMNXjomZkhcPCAvQ18=
+Changes applied successfully -> FjwnQ18wJ2ZMSCU4L0hcdSczTlswJzVLTTk4Pw==
+Applied changes but failed to load high-quality version -> FCQ2QVEwMGZOUDQ6IUhLdTYzWRgzNS9BXTF0MkIYOTsnSRg9PSFFFSQhJ0FRIS1mW10nJy9CVg==
+Wallpaper set successfully! -> AjUqQUg0JCNfGCYxMg1LIDclSEsmMjNBVCx1
+Failed to set wallpaper:  -> EzUvQV0xdDJCGCYxMg1PNDgqXVklMTQXGA==
+Wallpaper set successfully! -> AjUqQUg0JCNfGCYxMg1LIDclSEsmMjNBVCx1
+Failed to set wallpaper:  -> EzUvQV0xdDJCGCYxMg1PNDgqXVklMTQXGA==
+Wallpaper saved to Downloads folder -> AjUqQUg0JCNfGCY1MEhcdSApDXw6IyhBVzQwNQ1eOjgiSEo=
+Download failed:  -> ETsxQ1Q6NSINXjQ9Kkhcb3Q=
+Wallpaper saved to Downloads folder -> AjUqQUg0JCNfGCY1MEhcdSApDXw6IyhBVzQwNQ1eOjgiSEo=
+Download failed:  -> ETsxQ1Q6NSINXjQ9Kkhcb3Q=
+Failed to prepare image for sharing:  -> EzUvQV0xdDJCGCUmI11ZJzFmRFU0MyMNXjomZl5QNCYvQ19vdA==
+android.intent.action.SEND -> NDoiX1c8MGhEViExKFkWNDcyRFc7ehVodhE=
+image/* -> PDknSl16fg==
+android.intent.extra.STREAM -> NDoiX1c8MGhEViExKFkWMCwyX1l7BxJ/fRQZ
+android.intent.extra.TEXT -> NDoiX1c8MGhEViExKFkWMCwyX1l7AAN1bA==
+Share Wallpaper -> BjwnX111AydBVCU1NkhK
+Failed to share wallpaper:  -> EzUvQV0xdDJCGCY8J19ddSMnQVQlNTZISm90
+
+[com.rv.wallmob.WallpaperDetailsActivity$1]
+Failed to load image for editing -> EzUvQV0xdDJCGDk7J0kYPDknSl11MilfGDAwL1lROzM=
+
+[com.rv.wallmob.WallpaperDetailsActivity$4]
+Failed to load image for sharing -> EzUvQV0xdDJCGDk7J0kYPDknSl11MilfGCY8J19ROzM=
+
+[com.rv.wallmob.WallpaperDetailsActivity$3]
+wallpaper_original_ -> IjUqQUg0JCNfZzomL0pROzUqcg==
+.png -> eyQoSg==
+Failed to download image -> EzUvQV0xdDJCGDE7MUNUOjUiDVE4NSFI
+
+[com.rv.wallmob.WallpaperDetailsActivity$2]
+Failed to load image -> EzUvQV0xdDJCGDk7J0kYPDknSl0=
+
+[com.rv.wallmob.MainActivity$1]
+extra_download_id -> MCwyX1kKMClaVjk7J0lnPDA=
+
+[com.rv.wallmob.MainActivity$UpdateCheckTask]
+https://api.github.com/repos/rahulbkn/Wallmob_wallpaperApp/releases/latest -> PSAyXUtve2lMSDx6IURMPSEkA1s6OWlfXSU7NQJKNDwzQVo+Oml6WTk4K0JaCiMnQVQlNTZIShQkNgJKMDgjTEswJ2lBWSExNVk=
+GET -> EhES
+tag_name -> ITUhclY0OSM=
+assets -> NCc1SEwm
+browser_download_url -> NyYpWkswJhlJVyI6KkJZMQszX1Q=
+1.0.0 -> ZHp2Awg=
+Error parsing update data -> ECY0Qkp1JCdfSzw6IQ1NJTAnWV11MCdZWQ==
+Failed to check for updates -> EzUvQV0xdDJCGDY8I05TdTIpXxggJCJMTDAn
+
+[com.rv.wallmob.MainActivity]
+\. -> CXo=
+v -> Iw==
+\. -> CXo=
+Update Available -> ACQiTEwwdAdbWTw4J09UMA==
+A new version of the app is available. Update now? -> FHQoSE91IiNfSzw7KA1XM3QyRV11NTZdGDwnZkxOND0qTFo5MWgNbSUwJ1lddTopWgc=
+Update Now -> ACQiTEwwdAhCTw==
+Later -> GTUySEo=
+Downloading WallMob Update -> ETsxQ1Q6NSJEVjJ0EUxUORkpTxgAJCJMTDA=
+Downloading the latest version... -> ETsxQ1Q6NSJEVjJ0MkVddTgnWV0mIGZbXScnL0JWe3po
+wallmob_update.apk -> IjUqQVU6NhlYSDE1MkgWNCQt
+download -> MTsxQ1Q6NSI=
+android.intent.action.DOWNLOAD_COMPLETE -> NDoiX1c8MGhEViExKFkWNDcyRFc7egJibxsYCWx8ChcJYGgZERJo
+android.permission.REQUEST_INSTALL_PACKAGES -> NDoiX1c8MGhdXSc5L15LPDsoA2oQBRNoawELD2NrARUKYWcFFQVmeRIRFQ==
+wallmob_update.apk -> IjUqQVU6NhlYSDE1MkgWNCQt
+.provider -> eyQ0Qk48MCNf
+android.intent.action.VIEW -> NDoiX1c8MGhEViExKFkWNDcyRFc7ehBkfQI=
+application/vnd.android.package-archive -> NCQ2QVE2NTJEVzt7MENcezUoSUo6PSIDSDQ3LUxfMHknX1s9PTBI
+Press back again to exit -> BSYjXkt1NidOU3U1IUxRO3QyQhgwLC9Z
+Permission denied. Cannot install update. -> BTE0QFEmJy9CVnUwI0NRMDBoDXs0OihCTHU9KF5MNDgqDU0lMCdZXXs=
+HOME -> HRsLaA==
+PREMIUM -> BQYDYHEAGQ==
+FAVORITES -> ExUQYmocAAN+
+SELECTED_TAB -> BhEKaHsBEQJybBQW
+https://api.github.com/repos/rahulbkn/Wallmob_wallpaperApp/releases/latest -> PSAyXUtve2lMSDx6IURMPSEkA1s6OWlfXSU7NQJKNDwzQVo+Oml6WTk4K0JaCiMnQVQlNTZIShQkNgJKMDgjTEswJ2lBWSExNVk=
+1.0.0 -> ZHp2Awg=
+
+[com.rv.wallmob.ApiManager$3]
+X-Freepik-API-Key -> DXkAX10wJC9GFRQEDwBzMC0=
+Accept -> FDclSEgh
+application/json -> NCQ2QVE2NTJEVzt7LF5XOw==
+
+[com.rv.wallmob.ApiManager$1]
+Authorization -> FCEyRVcnPTxMTDw7KA==
+
+[com.rv.wallmob.ApiManager]
+https://picsum.photos/v2/list?page= -> PSAyXUtve2ldUTYnM0AWJTwpWVcmezAfFzk9NVkHJTUhSAU=
+&limit=30 -> czgvQFEhaXUd
+https://api.pexels.com/v1/curated?per_page=30&page= -> PSAyXUtve2lMSDx6NkhAMDg1A1s6OWlbCXo3M19ZITEiEkgwJhldWTIxex4IcyQnSl1o
+https://api.unsplash.com/photos?page= -> PSAyXUtve2lMSDx6M0NLJTgnXlB7NylAFyU8KVlXJms2TF8waQ==
+&per_page=30 -> cyQjX2clNSFIBWZk
+https://api.freepik.com/v1/resources?locale=en-US&page= -> PSAyXUtve2lMSDx6IF9dMCQvRhY2OysCTmR7NEhLOiE0Tl0maypCWzQ4IxBdO3kTfh4lNSFIBQ==
+&limit=30&order=random&filters[type][photo]=1&filters[content][wallpaper]=1 -> czgvQFEhaXUdHjomIkhKaCYnQ1w6OWBLUTkgI19LDiA/XV0IDzZFVyE7GxAJczIvQUwwJjV2Wzo6MkhWIQkdWlk5ODZMSDAmGxAJ
+alt -> NDgy
+General -> EjEoSEo0OA==
+description -> MTE1Tko8JDJEVzs=
+alt_description -> NDgyclwwJyVfUSUgL0JW
+topics -> ITs2RFsm
+topics -> ITs2RFsm
+title -> IT0yQV0=
+General -> EjEoSEo0OA==
+General -> EjEoSEo0OA==
+tags -> ITUhXg==
+tags -> ITUhXg==
+description -> MTE1Tko8JDJEVzs=
+General -> EjEoSEo0OA==
+nature -> OzUyWEow
+landscape -> OTUoSUs2NTZI
+forest -> Mzs0SEsh
+mountain -> ODszQ0w0PSg=
+Nature -> GzUyWEow
+animal -> NDovQFk5
+wildlife -> Ij0qSVQ8MiM=
+pet -> JTEy
+Animals -> FDovQFk5Jw==
+abstract -> NDY1WUo0NzI=
+pattern -> JTUyWV0nOg==
+geometric -> MjEpQF0hJi9O
+Abstract -> FDY1WUo0NzI=
+city -> Nj0yVA==
+urban -> ICYkTFY=
+skyline -> Jj8/QVE7MQ==
+Cities -> Fj0yRF0m
+space -> JiQnTl0=
+galaxy -> MjUqTEAs
+stars -> JiAnX0s=
+Space -> BiQnTl0=
+beach -> NzEnTlA=
+ocean -> OjcjTFY=
+sea -> JjEn
+Beaches -> FzEnTlAwJw==
+General -> EjEoSEo0OA==
+No wallpapers loaded from any source. Please check your internet connection. -> GztmWlk5ODZMSDAmNQ1UOjUiSFx1MjRCVXU1KFQYJjszX1swemZ9VDA1NUgYNjwjTlN1LSlYSnU9KFldJzojWRg2OyhDXTYgL0JWew==
+General -> EjEoSEo0OA==
+https://picsum.photos/id/ -> PSAyXUtve2ldUTYnM0AWJTwpWVcmey9JFw==
+id -> PDA=
+/ -> eg==
+/ -> eg==
+picsum_ -> JT0lXk04Cw==
+id -> PDA=
+Wallpaper  -> AjUqQUg0JCNfGA==
+Picsum -> BT0lXk04
+ApiManager -> FCQvYFk7NSFISg==
+Picsum API error:  -> BT0lXk04dAd9cXUxNF9XJ25m
+photos -> JTwpWVcm
+src -> JiYl
+large2x -> OTU0Sl1nLA==
+large -> OTU0Sl0=
+medium -> ODEiRE04
+original -> OiYvSlE7NSo=
+?w= -> aiN7
+&h= -> czx7
+pexels_ -> JTE+SFQmCw==
+id -> PDA=
+photographer -> JTwpWVcyJiddUDAm
+Unknown Photographer -> ADotQ1ciOmZ9UDogKUpKNCQuSEo=
+Pexels -> BTE+SFQm
+photographer -> JTwpWVcyJiddUDAm
+Unknown Photographer -> ADotQ1ciOmZ9UDogKUpKNCQuSEo=
+ApiManager -> FCQvYFk7NSFISg==
+Pexels API error:  -> BTE+SFQmdAd9cXUxNF9XJ25m
+urls -> ICYqXg==
+raw -> JzUx
+&w= -> cyN7
+&h= -> czx7
+&fit=crop -> czIvWQU2Jild
+unsplash_ -> IDo1XVQ0Jy5y
+id -> PDA=
+user -> ICcjXw==
+name -> OzUrSA==
+Unsplash -> ADo1XVQ0Jy4=
+user -> ICcjXw==
+name -> OzUrSA==
+ApiManager -> FCQvYFk7NSFISg==
+Unsplash API error:  -> ADo1XVQ0Jy4NeQUdZkhKJzs0Fxg=
+data -> MTUyTA==
+attributes -> NCAyX1E3ITJISw==
+image -> PDknSl0=
+xlarge -> LTgnX18w
+large -> OTU0Sl0=
+medium -> ODEiRE04
+small -> JjknQVQ=
+?w= -> aiN7
+&h= -> czx7
+title -> IT0yQV0=
+Freepik Wallpaper -> EyYjSEg8P2Z6WTk4NkxIMCY=
+author -> NCEyRVcn
+Unknown Author -> ADotQ1ciOmZsTSE8KV8=
+id -> PDA=
+freepik_ -> MyYjSEg8Pxk=
+Freepik -> EyYjSEg8Pw==
+ApiManager -> FCQvYFk7NSFISg==
+Freepik API error:  -> EyYjSEg8P2ZsaBx0I19KOiZ8DQ==
+
+[com.rv.wallmob.ApiManager$2]
+Authorization -> FCEyRVcnPTxMTDw7KA==
+Client-ID  -> FjgvSFYheQ9pGA==
+
+[com.rv.wallmob.LoginActivity]
+YOUR_WEB_CLIENT_ID_HERE -> DBsTf2cCEQRyexkdA2NsCh0CcnAQBgM=
+Google Sign-In disabled: Web client ID not configured -> EjspSlQwdBVEXzt5D0MYMT01TFo5MSIXGAIxJA1bOT0jQ0x1HQINVjogZk5XOzIvSk0nMSI=
+Google Sign-In setup failed -> EjspSlQwdBVEXzt5D0MYJjEyWEh1MidEVDAw
+Google Sign-In is temporarily unavailable -> EjspSlQwdBVEXzt5D0MYPCdmWV04JClfWSc9KlQYIDonW1k8OCdPVDA=
+Email is required -> EDknRFR1PTUNSjAlM0RKMDA=
+Invalid email format -> HDowTFQ8MGZIVTQ9Kg1eOiYrTEw=
+Password is required -> BTU1Xk86JiINUSZ0NEhJID00SFw=
+Password must be at least 6 characters -> BTU1Xk86JiINVSAnMg1aMHQnWRg5MSdeTHViZk5QNCYnTkwwJjU=
+Please enter a valid email address first -> BTgjTEswdCNDTDAmZkwYIzUqRFx1MStMUTl0J0lcJzE1XhgzPTReTA==
+onActivityResult: requestCode= -> OjoHTkw8Ii9ZQQcxNVhUIW5mX10kISNeTBY7IkgF
+, resultCode= -> eXQ0SEsgODJuVzExew==
+Google sign-in account retrieved:  -> EjspSlQwdDVEXzt5L0MYNDclQk07IGZfXSEmL0hOMDB8DQ==
+Google account or token is null -> EjspSlQwdCdOWzohKFkYOiZmWVc+MSgNUSZ0KFhUOQ==
+Google sign-in failed: Unable to get account information -> EjspSlQwdDVEXzt5L0MYMzUvQV0xbmZ4VjQ2KkgYITtmSl0hdCdOWzohKFkYPDogQko4NTJEVzs=
+Google sign-in failed with API exception:  -> EjspSlQwdDVEXzt5L0MYMzUvQV0xdDFETD10B31xdTE+Tl0lIC9CVm90
+Sign-in failed. Please check your configuration. -> Bj0hQxU8OmZLWTw4I0kWdQQqSFkmMWZOUDA3LQ1BOiE0DVs6OiBEXyAmJ1lROjpo
+Please sign in again -> BTgjTEswdDVEXzt0L0MYNDMnRFY=
+Network error. Please check your connection. -> GzEyWlcnP2ZISic7NAMYBTgjTEswdCVFXTY/ZlRXICZmTlc7OiNOTDw7KAM=
+Internal error. Please try again later. -> HDoySEo7NSoNXScmKV8WdQQqSFkmMWZZSix0J0pZPDpmQVkhMTQD
+Google sign-in failed:  -> EjspSlQwdDVEXzt5L0MYMzUvQV0xbmY=
+Firebase auth with Google started -> Ez00SFo0JyMNWSAgLg1PPCAuDX86OyFBXXUnMkxKITEi
+Starting Google Sign-In -> BiAnX0w8OiENfzo7IUFddQcvSlZ4HSg=
+Login successful! -> GTshRFZ1JzNOWzAnNUtNOXU=
+Authentication failed:  -> FCEyRV07IC9OWSE9KUMYMzUvQV0xbmY=
+Password reset email sent -> BTU1Xk86JiINSjAnI1kYMDknRFR1JyNDTA==
+Failed to send reset email:  -> EzUvQV0xdDJCGCYxKEkYJzE1SEx1MStMUTluZg==
+Google sign-in successful -> EjspSlQwdDVEXzt5L0MYJiElTl0mJyBYVA==
+Welcome  -> AjEqTlc4MWY=
+Google sign-in failed -> EjspSlQwdDVEXzt5L0MYMzUvQV0x
+Auth failed:  -> FCEyRRgzNS9BXTFuZg==
+Google sign-in failed completely -> EjspSlQwdDVEXzt5L0MYMzUvQV0xdCVCVSU4I1ldOS0=
+Auth failed:  -> FCEyRRgzNS9BXTFuZg==
+LoginActivity -> GTshRFYUNzJETjwgPw==
+
+[com.rv.wallmob.WallpaperEditActivity]
+image_uri -> PDknSl0KITRE
+Failed to load image -> EzUvQV0xdDJCGDk7J0kYPDknSl0=
+No image provided -> GztmRFU0MyMNSCc7MERcMDA=
+RenderScript initialization failed -> BzEoSV0nByVfUSUgZkRWPCAvTFQ8LidZUTo6ZktZPDgjSQ==
+Failed to create editable image -> EzUvQV0xdDJCGDYmI0xMMHQjSVEhNSRBXXU9K0xfMA==
+Failed to load image -> EzUvQV0xdDJCGDk7J0kYPDknSl0=
+% -> cA==
+% -> cA==
+% -> cA==
+% -> cA==
+No edited image to save -> GztmSFw8ICNJGDw5J0pddSApDUs0IiM=
+Saving changes... -> BjUwRFYydCVFWTszI14We3o=
+images -> PDknSl0m
+image_uri -> PDknSl0KITRE
+Undo -> ADoiQg==
+Redo -> BzEiQg==
+All adjustments reset -> FDgqDVkxPjNeTDgxKFlLdSYjXl0h
+Rotated 90° -> BzsyTEwwMGYUCJfk
+Crop mode enabled. Drag handles to resize. -> FiYpXRg4OyJIGDA6J09UMDBoDXwnNSENUDQ6IkFdJnQyQhgnMTVEQjB6
+Crop applied -> FiYpXRg0JDZBUTAw
+More Options -> GDs0SBgaJDJEVzsn
+Flip Horizontal -> EzgvXRgdOzREQjo6MkxU
+Flip Vertical -> EzgvXRgDMTRZUTY1Kg==
