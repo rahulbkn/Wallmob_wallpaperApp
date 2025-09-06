@@ -1,0 +1,5 @@
+bin/
+*.apk
+*.apk.unsigned
+*.idsig
+*.dex
